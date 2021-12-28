@@ -62,6 +62,7 @@ body {
 .lead {
   color: var(--text-color);
   font-size: 11px;
+  line-height: 15px;
 }
 .c-image {
   width: 100%;
